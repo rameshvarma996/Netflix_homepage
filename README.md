@@ -1,2 +1,2 @@
 # Neflix-page
-Live link:t  
+Live link: https://rameshvarma996.github.io/Netflix_homepage/
